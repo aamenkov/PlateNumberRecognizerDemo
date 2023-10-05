@@ -54,9 +54,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
-    <Reference Include="OpenALPR Xamarin.Android Binding">
-      <HintPath>..\Libraries\dll\OpenALPR Xamarin.Android Binding.dll</HintPath>
-    </Reference>
     <Reference Include="OpenALPR Xamarin.Android Library">
       <HintPath>..\Libraries\dll\OpenALPR Xamarin.Android Library.dll</HintPath>
     </Reference>
